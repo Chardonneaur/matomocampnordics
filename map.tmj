@@ -876,10 +876,6 @@
          "tilewidth":32
         }, 
         {
-         "firstgid":2956,
-         "source":"automap-tiles.tsx"
-        }, 
-        {
          "firstgid":2961,
          "source":"tilesets\/MatomoCamp.tsx"
         }],
